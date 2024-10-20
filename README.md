@@ -19,7 +19,9 @@
 Geralmente, a aplicação fica acessível na URL `http://localhost:5173/`, mas isso pode variar.
 
 ## Layout da aplicação:
+Página Inicial da aplicação:
 
+![Página Inicial da aplicação](https://github.com/lucastandy/teste-tecnico-app-vanilla/blob/main/assets/tela_inicial.png)
 
 ## Autor:
 Lucas Tandy do Nascimento Silva
